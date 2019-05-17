@@ -16,8 +16,8 @@
 
 ### Instalação Aplicativo
 
-    - Usar o npm install na pasta Finanças dentro da pasta 'Aplicativo' quando clonar o projeto para instalar as dependencias.
+    -Usar o npm install na pasta Finanças dentro da pasta 'Aplicativo' quando clonar o projeto para instalar as dependencias.
 
 ### Instalação Server-Side
 
-    - Usar o npm install na pasta Finanças dentro da pasta 'Aplicativo' quando clonar o projeto para instalar as dependencias.
+    -Usar o npm install na pasta Finanças dentro da pasta 'Aplicativo' quando clonar o projeto para instalar as dependencias.

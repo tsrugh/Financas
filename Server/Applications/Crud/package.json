@@ -1,18 +1,14 @@
 {
-  "name": "webservice",
+  "name": "crud",
   "version": "1.0.0",
-  "description": "webservice do aplicativo",
+  "description": "Create Read Update Delete",
   "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Felipe Arvani, Lucas Pereira",
+  "author": "Felipe Arvani Lucas",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
     "mocha": "^6.1.4"
   }
 }
